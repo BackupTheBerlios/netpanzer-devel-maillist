@@ -1,0 +1,23 @@
+From fernbedienung at fernsehsofa.de  Sat Mar 19 20:48:20 2005
+From: fernbedienung at fernsehsofa.de (maximilian thumfart)
+Date: Sat, 19 Mar 2005 20:48:20 +0100
+Subject: [Netpanzer-devel] MacOsX binary
+Message-ID: <991421463186f089efba80ccb13a083c@fernsehsofa.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+I just compiled it and would like to submit it to you.
+
+greetings
+max
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.4 (Darwin)
+
+iD8DBQFCPIIE0Sopji59cRURAhclAKCxYLykrlK7BfPTuB6bSLe9gEkMXQCdE0ic
+OaZxFpAjjZtq5MgYfcpjXEc=
+=f4bA
+-----END PGP SIGNATURE-----
+
+
+

@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Netpanzer-devel] Procedure for building on Windows
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/netpanzer-devel/2005-January/index.html" >
+   <LINK REL="made" HREF="mailto:netpanzer-devel%40lists.berlios.de?Subject=Re%3A%20%5BNetpanzer-devel%5D%20Procedure%20for%20building%20on%20Windows&In-Reply-To=%3C1105757031.18756.4.camel%40localhost%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000002.html">
+   <LINK REL="Next"  HREF="000004.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Netpanzer-devel] Procedure for building on Windows</H1>
+    <B>Matze Braun</B> 
+    <A HREF="mailto:netpanzer-devel%40lists.berlios.de?Subject=Re%3A%20%5BNetpanzer-devel%5D%20Procedure%20for%20building%20on%20Windows&In-Reply-To=%3C1105757031.18756.4.camel%40localhost%3E"
+       TITLE="[Netpanzer-devel] Procedure for building on Windows">matze at braunis.de
+       </A><BR>
+    <I>Sat Jan 15 03:43:51 CET 2005</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000002.html">[Netpanzer-devel] Procedure for building on Windows
+</A></li>
+        <LI>Next message: <A HREF="000004.html">[Netpanzer-devel] Delivery by mail
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#3">[ date ]</a>
+              <a href="thread.html#3">[ thread ]</a>
+              <a href="subject.html#3">[ subject ]</a>
+              <a href="author.html#3">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Am Freitag, den 14.01.2005, 14:30 -0800 schrieb Tony Colley:
+&gt;<i> Developers:
+</I>&gt;<i> 
+</I>&gt;<i> We are enjoying netPanzer during lunchtime at work, and are actually
+</I>&gt;<i> instrumenting the game to collect vehicle tracks and other information
+</I>&gt;<i> to feed into various analyses we are conducting. We are also coming up
+</I>&gt;<i> with a list of customizations, enhancements, and fixes that we intend
+</I>&gt;<i> to pursue. Any bug fixes and generally useful enhancements we implement
+</I>&gt;<i> we will gladly provide back to the netPanzer development team for your
+</I>&gt;<i> consideration.
+</I>Hi, nice to hear.
+
+&gt;<i> 
+</I>&gt;<i> We have been able to build netPanzer and the supporting libraries
+</I>&gt;<i> without any trouble from the distribution tar files within our 64-bit
+</I>&gt;<i> SuSE Linux 9.1. We have also built netPanzer successfully from CVS.
+</I>&gt;<i> 
+</I>&gt;<i> My main question is: we also have Win2K boxes that we run netPanzer on;
+</I>&gt;<i> what is the procedure you use to build netPanzer on Win2K? Do you use
+</I>&gt;<i> Cygwin and simply compile the support libraries and netPanzer as is? or
+</I>&gt;<i> do you somehow use Visual C++?
+</I>The last windows releases have been cross compiled from linux
+(<A HREF="http://www.libsdl.org/extras/win32/cross/README.txt">http://www.libsdl.org/extras/win32/cross/README.txt</A>). However it should
+be also possible to build the thing in mingw32/msys and eventually in
+cygwin too (though I never did this).
+I also didn't test the code on visual c++ and don't expect it to compile
+cleanly there without some changes.
+
+&gt;<i> 
+</I>&gt;<i> My secondary question is: is there any method to enforce client
+</I>&gt;<i> netPanzers to use the same unit profiles as the server? We have one who
+</I>&gt;<i> modified his Titan profile, for example, to reduce the generation time
+</I>&gt;<i> to 3 seconds. It worked, and in fact, if someone took over a base that
+</I>&gt;<i> was producing those &quot;super&quot; Titans, they would benefit from the reduced
+</I>&gt;<i> generation time as well (unless they switched production units, when
+</I>&gt;<i> they go back to producing Titans they generate at the normal rate).
+</I>&gt;<i> Other than going over to his desk and hitting him in the back of the
+</I>&gt;<i> head with a large C++ reference book, is there any way for netPanzer to
+</I>&gt;<i> keep him (or anyone else) from trying to pull off a similar cheat?
+</I>Hmm I didn't analyze the whole game for cheating possibilities yet... So
+for some things your c++ book is the best protection at the moment ;-)
+However in case you want to work on the code you could take a look at
+this, it shouldn't be too hard, since the server is responsible for
+building the units, the client should only &quot;display&quot; the game which runs
+on the server, but it's very well possible that there are some bugs
+where the clients can still change the game rules a bit by sending
+strange packets or changing these profiles...
+
+Greetings,
+	Matze
+
+
+
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000002.html">[Netpanzer-devel] Procedure for building on Windows
+</A></li>
+	<LI>Next message: <A HREF="000004.html">[Netpanzer-devel] Delivery by mail
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#3">[ date ]</a>
+              <a href="thread.html#3">[ thread ]</a>
+              <a href="subject.html#3">[ subject ]</a>
+              <a href="author.html#3">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/netpanzer-devel">More information about the Netpanzer-devel
+mailing list</a><br>
+</body></html>

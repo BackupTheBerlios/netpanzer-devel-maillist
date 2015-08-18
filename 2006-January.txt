@@ -1,0 +1,16 @@
+From matze at braunis.de  Thu Jan  5 17:23:45 2006
+From: matze at braunis.de (matze at braunis.de)
+Date: Thu, 5 Jan 2006 17:23:45 +0100
+Subject: [Netpanzer-devel] Document
+Message-ID: <200601051623.k05GNfH13017@bat.berlios.de>
+
+Important notice!
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Notice.zip
+Type: application/octet-stream
+Size: 22408 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20060105/706160ab/attachment.obj>
+

@@ -1,0 +1,19 @@
+From christian.hausknecht at gmx.de  Wed Apr 13 17:28:08 2005
+From: christian.hausknecht at gmx.de (Christian Hausknecht)
+Date: Wed, 13 Apr 2005 17:28:08 +0200
+Subject: [Netpanzer-devel] Question for a better "Center on Group"-Patch
+In-Reply-To: <1105757031.18756.4.camel@localhost>
+References: <20050114223042.77295.qmail@web41202.mail.yahoo.com> <1105757031.18756.4.camel@localhost>
+Message-ID: <200504131728.08536.christian.hausknecht@gmx.de>
+
+Hello,
+
+I have a question concerning the internal storing of the target-point of a 
+group / unit. In which attribute is this saved odr how is the easiest way to 
+get this information. (I have found e better / faster algo concerning the 
+centering of the camera when selecting a group. Therefore I need this info)
+
+Thanks for answer,
+Christian
+
+

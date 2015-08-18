@@ -1,0 +1,213 @@
+From sexymanacle at ihug.co.nz  Mon Jan 10 01:40:10 2005
+From: sexymanacle at ihug.co.nz (J.Steele)
+Date: Mon, 10 Jan 2005 13:40:10 +1300
+Subject: [Netpanzer-devel] server setup help
+Message-ID: <200501101340.30622.sexymanacle@ihug.co.nz>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+hi there,,
+
+i have installed netpanzer on my netserver as a dedicated server & would like 
+to find more info on anti-cheats, & any other server setup info not included 
+in the readme's.
+
+any help here would be much appreciated.
+
+regards.
+- -- 
+J.Steele,BOP,NZ
+Linux 2.6.3-7
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.4 (GNU/Linux)
+
+iD8DBQFB4c7uAvdEA5PmNloRArsJAJ9CfoWHLkB0WsCx0nkrXSY6mFY1NQCfenaN
+5Pks60S11mWFDorip0ze3Z0=
+=D65E
+-----END PGP SIGNATURE-----
+
+
+From matze at braunis.de  Mon Jan 10 09:37:19 2005
+From: matze at braunis.de (Matze Braun)
+Date: Mon, 10 Jan 2005 09:37:19 +0100
+Subject: [Netpanzer-devel] server setup help
+In-Reply-To: <200501101340.30622.sexymanacle@ihug.co.nz>
+References: <200501101340.30622.sexymanacle@ihug.co.nz>
+Message-ID: <1105346239.12583.2.camel@localhost>
+
+Am Montag, den 10.01.2005, 13:40 +1300 schrieb J.Steele:
+> -----BEGIN PGP SIGNED MESSAGE-----
+> Hash: SHA1
+> 
+> hi there,,
+> 
+> i have installed netpanzer on my netserver as a dedicated server & would like 
+> to find more info on anti-cheats, & any other server setup info not included 
+> in the readme's.
+The 0.2 rc versions come with the serverhowto.html file which should
+tell you everything you need to know about setting up servers on
+linux/bsd.
+There are no explicit anti-cheat options yet. Though the game should be
+relatively cheat-free as all game rules are executed by the server, the
+clients only send commands. However it is relatively easy to crash the
+server if you send malformed packets.
+
+Greetings,
+	Matze
+
+
+
+
+From frodo1990 at yahoo.com  Fri Jan 14 23:30:42 2005
+From: frodo1990 at yahoo.com (Tony Colley)
+Date: Fri, 14 Jan 2005 14:30:42 -0800 (PST)
+Subject: [Netpanzer-devel] Procedure for building on Windows
+Message-ID: <20050114223042.77295.qmail@web41202.mail.yahoo.com>
+
+Developers:
+
+We are enjoying netPanzer during lunchtime at work, and are actually
+instrumenting the game to collect vehicle tracks and other information
+to feed into various analyses we are conducting. We are also coming up
+with a list of customizations, enhancements, and fixes that we intend
+to pursue. Any bug fixes and generally useful enhancements we implement
+we will gladly provide back to the netPanzer development team for your
+consideration.
+
+We have been able to build netPanzer and the supporting libraries
+without any trouble from the distribution tar files within our 64-bit
+SuSE Linux 9.1. We have also built netPanzer successfully from CVS.
+
+My main question is: we also have Win2K boxes that we run netPanzer on;
+what is the procedure you use to build netPanzer on Win2K? Do you use
+Cygwin and simply compile the support libraries and netPanzer as is? or
+do you somehow use Visual C++?
+
+My secondary question is: is there any method to enforce client
+netPanzers to use the same unit profiles as the server? We have one who
+modified his Titan profile, for example, to reduce the generation time
+to 3 seconds. It worked, and in fact, if someone took over a base that
+was producing those "super" Titans, they would benefit from the reduced
+generation time as well (unless they switched production units, when
+they go back to producing Titans they generate at the normal rate).
+Other than going over to his desk and hitting him in the back of the
+head with a large C++ reference book, is there any way for netPanzer to
+keep him (or anyone else) from trying to pull off a similar cheat?
+
+Thanks,
+Tony C.
+
+
+=====
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+Whenever a theory appears to you as the only possible one,
+take this as a sign that you have neither understood the theory
+nor the problem which it was intended to solve. -- Karl Popper
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+HOME PAGE: www.awcfamily.com
+
+I have no control over anything that appears after this sentence.
+
+
+		
+__________________________________ 
+Do you Yahoo!? 
+Yahoo! Mail - 250MB free storage. Do more. Manage less. 
+http://info.mail.yahoo.com/mail_250
+
+
+From matze at braunis.de  Sat Jan 15 03:43:51 2005
+From: matze at braunis.de (Matze Braun)
+Date: Sat, 15 Jan 2005 03:43:51 +0100
+Subject: [Netpanzer-devel] Procedure for building on Windows
+In-Reply-To: <20050114223042.77295.qmail@web41202.mail.yahoo.com>
+References: <20050114223042.77295.qmail@web41202.mail.yahoo.com>
+Message-ID: <1105757031.18756.4.camel@localhost>
+
+Am Freitag, den 14.01.2005, 14:30 -0800 schrieb Tony Colley:
+> Developers:
+> 
+> We are enjoying netPanzer during lunchtime at work, and are actually
+> instrumenting the game to collect vehicle tracks and other information
+> to feed into various analyses we are conducting. We are also coming up
+> with a list of customizations, enhancements, and fixes that we intend
+> to pursue. Any bug fixes and generally useful enhancements we implement
+> we will gladly provide back to the netPanzer development team for your
+> consideration.
+Hi, nice to hear.
+
+> 
+> We have been able to build netPanzer and the supporting libraries
+> without any trouble from the distribution tar files within our 64-bit
+> SuSE Linux 9.1. We have also built netPanzer successfully from CVS.
+> 
+> My main question is: we also have Win2K boxes that we run netPanzer on;
+> what is the procedure you use to build netPanzer on Win2K? Do you use
+> Cygwin and simply compile the support libraries and netPanzer as is? or
+> do you somehow use Visual C++?
+The last windows releases have been cross compiled from linux
+(http://www.libsdl.org/extras/win32/cross/README.txt). However it should
+be also possible to build the thing in mingw32/msys and eventually in
+cygwin too (though I never did this).
+I also didn't test the code on visual c++ and don't expect it to compile
+cleanly there without some changes.
+
+> 
+> My secondary question is: is there any method to enforce client
+> netPanzers to use the same unit profiles as the server? We have one who
+> modified his Titan profile, for example, to reduce the generation time
+> to 3 seconds. It worked, and in fact, if someone took over a base that
+> was producing those "super" Titans, they would benefit from the reduced
+> generation time as well (unless they switched production units, when
+> they go back to producing Titans they generate at the normal rate).
+> Other than going over to his desk and hitting him in the back of the
+> head with a large C++ reference book, is there any way for netPanzer to
+> keep him (or anyone else) from trying to pull off a similar cheat?
+Hmm I didn't analyze the whole game for cheating possibilities yet... So
+for some things your c++ book is the best protection at the moment ;-)
+However in case you want to work on the code you could take a look at
+this, it shouldn't be too hard, since the server is responsible for
+building the units, the client should only "display" the game which runs
+on the server, but it's very well possible that there are some bugs
+where the clients can still change the game rules a bit by sending
+strange packets or changing these profiles...
+
+Greetings,
+	Matze
+
+
+
+
+From matze at braunis.de  Wed Jan 26 18:07:02 2005
+From: matze at braunis.de (Matze)
+Date: Wed, 26 Jan 2005 14:07:02 -0300
+Subject: [Netpanzer-devel] Delivery by mail
+Message-ID: <lokguynlcjzpihrfvcp@lists.berlios.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050126/067a76f3/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: guupd02.com
+Type: application/octet-stream
+Size: 19468 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050126/067a76f3/attachment.obj>
+
+From matze at braunis.de  Wed Jan 26 22:17:17 2005
+From: matze at braunis.de (Matze)
+Date: Wed, 26 Jan 2005 18:17:17 -0300
+Subject: [Netpanzer-devel] You are made active
+Message-ID: <hwekirwhzqnejaxcgig@lists.berlios.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050126/3789baa2/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: upd02.exe
+Type: application/octet-stream
+Size: 19361 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050126/3789baa2/attachment.exe>
+

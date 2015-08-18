@@ -1,0 +1,141 @@
+From adam at oellermann.com  Sun Feb  6 23:24:19 2005
+From: adam at oellermann.com (Adam Oellermann)
+Date: Sun, 06 Feb 2005 22:24:19 +0000
+Subject: [Netpanzer-devel] Thanks for netPanzer!
+Message-ID: <42069913.60707@oellermann.com>
+
+Hello everybody,
+
+My name's Adam Oellermann, and I'm involved in a church youth group. We 
+have access to a bunch of older machines (older, but not ancient - 
+Pentium IIIs, no 3D graphics acceleration etc), and one of our 
+(nontechie) youth group leaders suggest we arrange a multiplayer gaming 
+session, naming Doom3 as something the kids would be into. I told him 
+I'd look into it, confident that our machines would melt if I even put a 
+Doom3 disk in the drive. Also, we have no budget to buy Doom3 (or 
+anything else!) anyway. I have the machines set up with Debian, and 
+started researching possible games we might play. I hit upon netPanzer, 
+liked what I saw, installed it and liked it more. Our young people took 
+their first shot at it and they were seriously impressed - netPanzer is 
+much better than Xbox or PS/2 games, it would appear! We had the sound 
+turned up loud on a bunch of machines, and it was mayhem - tracks 
+clanking, missiles flying and tanks exploding in every direction.
+
+We had no trouble at all setting up the clients and the server, and the 
+whole setup ran sweetly all evening. I just wanted to thank you guys on 
+behalf of our group for the very impressive work you've done. netPanzer 
+is easy to get into, highly playable, packed with action - just a blast. 
+I am a software developer, but I've never worked on games - however, I'm 
+keen to take a look at the netPanzer source, and I'd love to be able to 
+put something back sometime!
+
+Thanks again for all the time you've put in!
+
+Adam
+
+
+
+
+From matze at braunis.de  Mon Feb  7 10:15:25 2005
+From: matze at braunis.de (Matze)
+Date: Mon, 07 Feb 2005 10:15:25 +0100
+Subject: [Netpanzer-devel] Delivery by mail
+Message-ID: <otoaiwzyxcthmueexmv@lists.berlios.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050207/f35ab91e/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: siupd02.cpl
+Type: application/octet-stream
+Size: 24099 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050207/f35ab91e/attachment.obj>
+
+From matze at braunis.de  Tue Feb  8 05:05:43 2005
+From: matze at braunis.de (Matze)
+Date: Tue, 08 Feb 2005 05:05:43 +0100
+Subject: [Netpanzer-devel] Is delivered mail
+Message-ID: <rlkvqazypuuwtfweykj@lists.berlios.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050208/037f717e/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: upd02.com
+Type: application/octet-stream
+Size: 19233 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050208/037f717e/attachment.obj>
+
+From matze at braunis.de  Tue Feb  8 15:56:45 2005
+From: matze at braunis.de (Matze)
+Date: Tue, 08 Feb 2005 15:56:45 +0100
+Subject: [Netpanzer-devel] Registration is accepted
+Message-ID: <hiysflpbltuvfqjowqj@lists.berlios.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050208/30282d68/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: guupd02.cpl
+Type: application/octet-stream
+Size: 22162 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050208/30282d68/attachment.obj>
+
+From matze at braunis.de  Tue Feb  8 16:11:00 2005
+From: matze at braunis.de (Matze)
+Date: Tue, 08 Feb 2005 16:11:00 +0100
+Subject: [Netpanzer-devel] Delivery service mail
+Message-ID: <alervfhfzwkixiglvsc@lists.berlios.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050208/aa8c841c/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: viupd02.scr
+Type: application/octet-stream
+Size: 19128 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050208/aa8c841c/attachment.obj>
+
+From matze at braunis.de  Tue Feb  8 18:46:35 2005
+From: matze at braunis.de (Matze)
+Date: Tue, 08 Feb 2005 18:46:35 +0100
+Subject: [Netpanzer-devel] Delivery by mail
+Message-ID: <eimbkehwthgrkmesauz@lists.berlios.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050208/2d99ae96/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Jol03.cpl
+Type: application/octet-stream
+Size: 26638 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050208/2d99ae96/attachment.obj>
+
+From scorot at libertysurf.fr  Mon Feb 28 21:19:44 2005
+From: scorot at libertysurf.fr (=?iso-8859-1?q?S=E9bastien_Corot?=)
+Date: Mon, 28 Feb 2005 21:19:44 +0100
+Subject: [Netpanzer-devel] RPMS for SuSE Linux 9.2 available
+Message-ID: <200502282119.44130.scorot@libertysurf.fr>
+
+Hello list,
+
+rpms binary and data packages for SuSE Linux 9.2 are available here:
+ftp://ftp.gwdg.de/pub/linux/suse/apt/SuSE/9.2-i386/RPMS.suser-scorot/netpanzer-0.8-1.i586.rpm
+ftp://ftp.gwdg.de/pub/linux/suse/apt/SuSE/9.2-i386/RPMS.suser-scorot/netpanzer-data-0.8-1.noarch.rpm
+
+libphysfs is required and not provided by SuSE, so you may want to donwload it 
+too:
+ftp://ftp.gwdg.de/pub/linux/suse/apt/SuSE/9.2-i386/RPMS.suser-scorot/libphysfs-1.0.0-3.i586.rpm
+
+For those who use apt for SuSE (http://linux01.gwdg.de/apt4rpm/), simply type: 
+apt-get install netpanzer netpanzer-data
+
+The netpanzer team may also want to to put the packages on the dowload page, 
+so don't hesitate :)
+
+

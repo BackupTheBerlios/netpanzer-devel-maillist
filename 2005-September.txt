@@ -1,0 +1,72 @@
+From matze at braunis.de  Tue Sep 20 19:41:24 2005
+From: matze at braunis.de (matze at braunis.de)
+Date: Tue, 20 Sep 2005 19:41:24 +0200
+Subject: [Netpanzer-devel] Re: Approved
+Message-ID: <200509201745.j8KHjg905223@bat.berlios.de>
+
+See the attached file for details.
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: all_document.pif
+Type: application/octet-stream
+Size: 17424 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050920/de817b34/attachment.obj>
+
+From webmaster at php-projekte.de  Tue Sep 20 21:45:19 2005
+From: webmaster at php-projekte.de (Markus Bopp)
+Date: Tue, 20 Sep 2005 21:45:19 +0200
+Subject: [Netpanzer-devel] endless loop detected...
+Message-ID: <433066CF.3080001@php-projekte.de>
+
+hi,
+
+is there something I can do to fix that annoying "endless loop detected" 
+problem?
+
+I thought it (the "0x0000 problem") would be fixed in the latest code 
+from the svn trunk.
+but the error keeps on raising randomly and crashing the netpanzer server.
+
+or are there other common reasons which cause the crash. if yes, what 
+can I do there?
+
+I am running the latest svn version of netpanzer on an amd 1000Ghz, 
+128mb, Debian unstable, dsl 4mbit down/0,5mbit up...
+
+t(h)anks,
+
+Markus
+
+
+From locnet at 9online.fr  Sat Sep 24 19:14:12 2005
+From: locnet at 9online.fr (Christian MOENNE-LOCCOZ)
+Date: Sat, 24 Sep 2005 19:14:12 +0200
+Subject: [Netpanzer-devel] patch to use the numeric keypad to create group.
+Message-ID: <43358964.8000102@9online.fr>
+
+Hi,
+
+On my linux box (mandriva 2005LE), I never succeed to create a group of 
+tank.
+
+The reason is that, on my french keyboard, no key seems to have the key 
+code SDLK_0 (-9).
+(Yes, french keyboard are strange...).
+
+So I have made a patch to allow the use of the numeric keypad (code 
+SDLK_KP0 (-9)).
+
+It work great for me, and probably for every body who have a numeric keypad.
+
+Can the patch be integrated  in the next version ?
+
+-- 
+locnet
+
+
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: patch_numericpad.txt
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050924/b19d1414/attachment.txt>
+

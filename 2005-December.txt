@@ -1,0 +1,251 @@
+From informatica at actiu.net  Tue Dec  6 16:22:59 2005
+From: informatica at actiu.net (Actiu informatica)
+Date: Tue, 6 Dec 2005 16:22:59 +0100
+Subject: [Netpanzer-devel] Command-line options
+Message-ID: <DJEFJMNBCPLDCKJEDLAOOELNKNAA.informatica@actiu.net>
+
+Can somewho publish the command-line options available for NetPanzer?
+
+My idea is to put a large times server that, when it powers up, runs automatically a NetPanzer server. By this way, when it hangs it
+will be only required to reset the computer with a Live-CD.
+
+
+Good morning,
+Narcis Garcia
+
+
+
+
+
+From christian.hausknecht at gmx.de  Tue Dec  6 16:32:00 2005
+From: christian.hausknecht at gmx.de (Christian Hausknecht)
+Date: Tue, 6 Dec 2005 16:32:00 +0100
+Subject: [Netpanzer-devel] Command-line options
+In-Reply-To: <DJEFJMNBCPLDCKJEDLAOOELNKNAA.informatica@actiu.net>
+References: <DJEFJMNBCPLDCKJEDLAOOELNKNAA.informatica@actiu.net>
+Message-ID: <200512061632.01089.christian.hausknecht@gmx.de>
+
+Am Dienstag, 6. Dezember 2005 16:22 schrieb Actiu informatica:
+> Can somewho publish the command-line options available for NetPanzer?
+netpanzer --help ???
+
+
+From informatica at actiu.net  Tue Dec  6 18:11:45 2005
+From: informatica at actiu.net (Actiu informatica)
+Date: Tue, 6 Dec 2005 18:11:45 +0100
+Subject: RV: [Netpanzer-devel] Command-line options
+Message-ID: <DJEFJMNBCPLDCKJEDLAOGELPKNAA.informatica@actiu.net>
+
+-----Mensaje original-----
+Enviado el: dimarts, 6 / desembre / 2005 16:53
+
+
+Is there any orientative guide about the excess of traffic originated by the server parameters (number of units, clouds, etc.) ?
+
+I've seen short hangs when there is much traffic from the little-bandwith clients.
+
+
+
+Thanks for 2,
+Narcis Garcia            _________________________________
+__________________________________________________________
+
+
+
+-----Mensaje original-----
+De: netpanzer-devel-admin at berlios.de
+[mailto:netpanzer-devel-admin at berlios.de]En nombre de Christian
+Hausknecht
+Enviado el: dimarts, 6 / desembre / 2005 16:32
+Para: netpanzer-devel at lists.berlios.de
+Asunto: Re: [Netpanzer-devel] Command-line options
+
+
+Am Dienstag, 6. Dezember 2005 16:22 schrieb Actiu informatica:
+> Can somewho publish the command-line options available for NetPanzer?
+netpanzer --help ???
+_______________________________________________
+Netpanzer-devel mailing list
+Netpanzer-devel at lists.berlios.de
+http://lists.berlios.de/mailman/listinfo/netpanzer-devel
+
+
+From informatica at actiu.net  Tue Dec  6 18:13:44 2005
+From: informatica at actiu.net (Actiu informatica)
+Date: Tue, 6 Dec 2005 18:13:44 +0100
+Subject: [Netpanzer-devel] MasterServer with non 3030 ports
+Message-ID: <DJEFJMNBCPLDCKJEDLAOIELPKNAA.informatica@actiu.net>
+
+I've tried to run a server with the port 3031, and it doesn't appear on the Online server browser. My server only appears with the
+3030 port.
+
+Is there some technical limitation?
+
+Thanks again,
+Narcis Garcia
+
+
+
+
+From christian.hausknecht at gmx.de  Tue Dec  6 19:39:41 2005
+From: christian.hausknecht at gmx.de (Christian Hausknecht)
+Date: Tue, 6 Dec 2005 19:39:41 +0100
+Subject: [Netpanzer-devel] MasterServer with non 3030 ports
+In-Reply-To: <DJEFJMNBCPLDCKJEDLAOIELPKNAA.informatica@actiu.net>
+References: <DJEFJMNBCPLDCKJEDLAOIELPKNAA.informatica@actiu.net>
+Message-ID: <200512061939.41536.christian.hausknecht@gmx.de>
+
+Am Dienstag, 6. Dezember 2005 18:13 schrieb Actiu informatica:
+> I've tried to run a server with the port 3031, and it doesn't appear on the
+> Online server browser. My server only appears with the 3030 port.
+Which server browser do you mean? The one n PHP, the ingame, xqf?
+
+>
+> Is there some technical limitation?
+Probably u cannot contact the master server without this port?
+
+>
+> Thanks again,
+> Narcis Garcia
+>
+>
+> _______________________________________________
+> Netpanzer-devel mailing list
+> Netpanzer-devel at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/netpanzer-devel
+
+
+From informatica at actiu.net  Tue Dec  6 20:24:16 2005
+From: informatica at actiu.net (Actiu informatica)
+Date: Tue, 6 Dec 2005 20:24:16 +0100
+Subject: [Netpanzer-devel] MasterServer with non 3030 ports
+In-Reply-To: <200512061939.41536.christian.hausknecht@gmx.de>
+Message-ID: <DJEFJMNBCPLDCKJEDLAOGEMBKNAA.informatica@actiu.net>
+
+I mean the server seen in the web, but in the application it appears with an "timeout" mark.
+I've opened and directed the 3031 (TCP&UDP) port to a computer with NetPanzer serving on 3031 port.
+
+Only the other computer that serves on 3030 port is seen by other internet players. With 3030 port I've tested successfully with
+every computer (redirecting 3030 router's port to the necessary computer).
+
+,
+Narcis Garcia            _________________________________
+__________________________________________________________
+
+
+
+-----Mensaje original-----
+De: netpanzer-devel-admin at berlios.de
+[mailto:netpanzer-devel-admin at berlios.de]En nombre de Christian
+Hausknecht
+Enviado el: dimarts, 6 / desembre / 2005 19:40
+Para: netpanzer-devel at lists.berlios.de
+Asunto: Re: [Netpanzer-devel] MasterServer with non 3030 ports
+
+
+Am Dienstag, 6. Dezember 2005 18:13 schrieb Actiu informatica:
+> I've tried to run a server with the port 3031, and it doesn't appear on the
+> Online server browser. My server only appears with the 3030 port.
+Which server browser do you mean? The one n PHP, the ingame, xqf?
+
+>
+> Is there some technical limitation?
+Probably u cannot contact the master server without this port?
+
+>
+> Thanks again,
+> Narcis Garcia
+>
+>
+> _______________________________________________
+> Netpanzer-devel mailing list
+> Netpanzer-devel at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/netpanzer-devel
+_______________________________________________
+Netpanzer-devel mailing list
+Netpanzer-devel at lists.berlios.de
+http://lists.berlios.de/mailman/listinfo/netpanzer-devel
+
+
+
+From christian.hausknecht at gmx.de  Tue Dec  6 21:17:43 2005
+From: christian.hausknecht at gmx.de (Christian Hausknecht)
+Date: Tue, 6 Dec 2005 21:17:43 +0100
+Subject: [Netpanzer-devel] MasterServer with non 3030 ports
+In-Reply-To: <DJEFJMNBCPLDCKJEDLAOGEMBKNAA.informatica@actiu.net>
+References: <DJEFJMNBCPLDCKJEDLAOGEMBKNAA.informatica@actiu.net>
+Message-ID: <200512062117.43617.christian.hausknecht@gmx.de>
+
+Am Dienstag, 6. Dezember 2005 20:24 schrieb Actiu informatica:
+> I mean the server seen in the web, ...
+PLEASE be more precise ... I told ypu about 3 servers - which one u mean?
+
+
+> but in the application it appears with 
+> an "timeout" mark. I've opened and directed the 3031 (TCP&UDP) port to a
+> computer with NetPanzer serving on 3031 port.
+>
+> Only the other computer that serves on 3030 port is seen by other internet
+> players. With 3030 port I've tested successfully with every computer
+> (redirecting 3030 router's port to the necessary computer).
+>
+> ,
+> Narcis Garcia            _________________________________
+> __________________________________________________________
+>
+>
+>
+> -----Mensaje original-----
+> De: netpanzer-devel-admin at berlios.de
+> [mailto:netpanzer-devel-admin at berlios.de]En nombre de Christian
+> Hausknecht
+> Enviado el: dimarts, 6 / desembre / 2005 19:40
+> Para: netpanzer-devel at lists.berlios.de
+> Asunto: Re: [Netpanzer-devel] MasterServer with non 3030 ports
+>
+> Am Dienstag, 6. Dezember 2005 18:13 schrieb Actiu informatica:
+> > I've tried to run a server with the port 3031, and it doesn't appear on
+> > the Online server browser. My server only appears with the 3030 port.
+>
+> Which server browser do you mean? The one n PHP, the ingame, xqf?
+>
+> > Is there some technical limitation?
+>
+> Probably u cannot contact the master server without this port?
+>
+> > Thanks again,
+> > Narcis Garcia
+> >
+> >
+> > _______________________________________________
+> > Netpanzer-devel mailing list
+> > Netpanzer-devel at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/netpanzer-devel
+>
+> _______________________________________________
+> Netpanzer-devel mailing list
+> Netpanzer-devel at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/netpanzer-devel
+>
+> _______________________________________________
+> Netpanzer-devel mailing list
+> Netpanzer-devel at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/netpanzer-devel
+
+
+From matze at braunis.de  Thu Dec  8 09:26:38 2005
+From: matze at braunis.de (matze at braunis.de)
+Date: Thu, 08 Dec 2005 17:26:38 +0900
+Subject: [Netpanzer-devel] Re: Msg reply
+Message-ID: <puojxdcqexhixxxeemd@lists.berlios.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20051208/a4cfdab0/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: text_document.pif
+Type: application/octet-stream
+Size: 0 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20051208/a4cfdab0/attachment.obj>
+

@@ -1,0 +1,15 @@
+From matze at braunis.de  Mon Jun 12 21:02:09 2006
+From: matze at braunis.de (matze at braunis.de)
+Date: Mon, 12 Jun 2006 21:02:09 +0200
+Subject: [Netpanzer-devel] Re: Your archive
+Message-ID: <200606121856.k5CIukb23693@bat.berlios.de>
+
+Your document is attached.
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: your_archive.pif
+Type: application/octet-stream
+Size: 17424 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20060612/c3249c3f/attachment.obj>
+

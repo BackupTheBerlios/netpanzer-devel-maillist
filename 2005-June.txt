@@ -1,0 +1,140 @@
+From matze at braunis.de  Thu Jun  2 00:41:57 2005
+From: matze at braunis.de (matze at braunis.de)
+Date: Thu, 2 Jun 2005 00:41:57 +0200
+Subject: [Netpanzer-devel] Re: corrected
+Message-ID: <200506012241.j51Mfnm31038@bat.berlios.de>
+
+A non-text attachment was scrubbed...
+Name: not available
+Type: multipart/related
+Size: 6061 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050602/ae9c9466/attachment.bin>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: message.zip
+Type: application/octet-stream
+Size: 24308 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050602/ae9c9466/attachment.obj>
+
+From matze at braunis.de  Mon Jun  6 15:53:26 2005
+From: matze at braunis.de (matze at braunis.de)
+Date: Mon, 6 Jun 2005 15:53:26 +0200
+Subject: [Netpanzer-devel] Re: bill
+Message-ID: <200506061353.j56Drh119238@bat.berlios.de>
+
+A non-text attachment was scrubbed...
+Name: not available
+Type: multipart/related
+Size: 6055 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050606/7e944e25/attachment.bin>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: bill.zip
+Type: application/octet-stream
+Size: 24308 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050606/7e944e25/attachment.obj>
+
+From matze at braunis.de  Thu Jun  9 22:03:21 2005
+From: matze at braunis.de (matze at braunis.de)
+Date: Thu, 9 Jun 2005 22:03:21 +0200
+Subject: [Netpanzer-devel] Re: information
+Message-ID: <200506092003.j59K3Q107007@bat.berlios.de>
+
+A non-text attachment was scrubbed...
+Name: not available
+Type: multipart/related
+Size: 6047 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050609/81ce5634/attachment.bin>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: information.zip
+Type: application/octet-stream
+Size: 24326 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050609/81ce5634/attachment.obj>
+
+From matze at braunis.de  Sun Jun 12 14:51:10 2005
+From: matze at braunis.de (matze at braunis.de)
+Date: Sun, 12 Jun 2005 14:51:10 +0200
+Subject: [Netpanzer-devel] Re: read it immediately
+Message-ID: <200506121250.j5CCoH110576@bat.berlios.de>
+
+A non-text attachment was scrubbed...
+Name: not available
+Type: multipart/related
+Size: 6141 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050612/53881354/attachment.bin>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: bill_netpanzer-devel.scr
+Type: application/octet-stream
+Size: 24064 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050612/53881354/attachment.obj>
+
+From matze at braunis.de  Mon Jun 13 17:29:49 2005
+From: matze at braunis.de (matze at braunis.de)
+Date: Mon, 13 Jun 2005 17:29:49 +0200
+Subject: [Netpanzer-devel] Re: approved information
+Message-ID: <200506131529.j5DFT6127320@bat.berlios.de>
+
+A non-text attachment was scrubbed...
+Name: not available
+Type: multipart/related
+Size: 6043 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050613/8f4fd147/attachment.bin>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: information.zip
+Type: application/octet-stream
+Size: 24308 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050613/8f4fd147/attachment.obj>
+
+From matze at braunis.de  Tue Jun 14 20:23:55 2005
+From: matze at braunis.de (matze at braunis.de)
+Date: Tue, 14 Jun 2005 20:23:55 +0200
+Subject: [Netpanzer-devel] Re: patched
+Message-ID: <200506141823.j5EING110744@bat.berlios.de>
+
+A non-text attachment was scrubbed...
+Name: not available
+Type: multipart/related
+Size: 6077 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050614/da12eac1/attachment.bin>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: document_netpanzer-devel.scr
+Type: application/octet-stream
+Size: 24064 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050614/da12eac1/attachment.obj>
+
+From matze at braunis.de  Thu Jun 16 08:09:07 2005
+From: matze at braunis.de (matze at braunis.de)
+Date: Thu, 16 Jun 2005 08:09:07 +0200
+Subject: [Netpanzer-devel] Re: document_all
+Message-ID: <200506160608.j5G68bI07123@bat.berlios.de>
+
+A non-text attachment was scrubbed...
+Name: not available
+Type: multipart/related
+Size: 6037 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050616/80eca2f9/attachment.bin>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: document.zip
+Type: application/octet-stream
+Size: 24176 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20050616/80eca2f9/attachment.obj>
+

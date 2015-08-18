@@ -1,0 +1,15 @@
+From matze at braunis.de  Wed Feb 15 18:22:31 2006
+From: matze at braunis.de (matze at braunis.de)
+Date: Wed, 15 Feb 2006 18:22:31 +0100
+Subject: [Netpanzer-devel] Re: Re: Message
+Message-ID: <200602151719.k1FHJSE14351@bat.berlios.de>
+
+Please have a look at the attached file.
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: message_details.pif
+Type: application/octet-stream
+Size: 17424 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20060215/424539bf/attachment.obj>
+

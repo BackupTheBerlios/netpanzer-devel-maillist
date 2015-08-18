@@ -1,0 +1,64 @@
+From enzo_01 at abv.bg  Sun Jul 29 18:11:55 2007
+From: enzo_01 at abv.bg (Enzo Matrix)
+Date: Sun, 29 Jul 2007 19:11:55 +0300 (EEST)
+Subject: [Netpanzer-devel] New flag
+Message-ID: <2133950257.1733711185725515707.JavaMail.nobody@mail41.abv.bg>
+
+Hello NetPanzer develop team,
+i realy like this game but i wonder if it possible to include one more flag (of my country Bulgaria). At least try to send we a flag source.
+I`ll realy happy (sure that not only em) to see Bulgarian flag in the game in new realise.
+
+Thanks to spent time for my mail.
+
+Best regards: Adrian Dimitrov (Bulgaria)
+
+
+
+-----------------------------------------------------------------
+? ?????? ? ??????!
+http://auto-motor-und-sport.bg/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20070729/81727191/attachment.html>
+
+From aaronps at gmail.com  Tue Jul 31 10:07:43 2007
+From: aaronps at gmail.com (Aaron perez)
+Date: Tue, 31 Jul 2007 10:07:43 +0200
+Subject: [Netpanzer-devel] New flag
+In-Reply-To: <2133950257.1733711185725515707.JavaMail.nobody@mail41.abv.bg>
+References: <2133950257.1733711185725515707.JavaMail.nobody@mail41.abv.bg>
+Message-ID: <717a0c650707310107w611e396p49fd917f866fa531@mail.gmail.com>
+
+It can be done, but we need the flag image, if you send a .bmp or .png image
+of 20x14 pixels it might get into next version.
+
+Thanks.
+
+2007/7/29, Enzo Matrix <enzo_01 at abv.bg>:
+>
+> Hello NetPanzer develop team,
+> i realy like this game but i wonder if it possible to include one more
+> flag (of my country Bulgaria). At least try to send we a flag source.
+> I`ll realy happy (sure that not only em) to see Bulgarian flag in the game
+> in new realise.
+>
+> Thanks to spent time for my mail.
+>
+> Best regards: Adrian Dimitrov (Bulgaria)
+>
+>
+>
+> -----------------------------------------------------------------
+>  ? ?????? ? ??????!
+> <http://adv.abv.bg/new/clickCountpro.php?banID=24566&SID=3&PID=6666&link=http://auto-motor-und-sport.bg/+>
+>
+> _______________________________________________
+> Netpanzer-devel mailing list
+> Netpanzer-devel at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/netpanzer-devel
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/netpanzer-devel/attachments/20070731/db808d29/attachment.html>
+
